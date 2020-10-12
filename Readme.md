@@ -1,5 +1,5 @@
-CardsPrinter App
-Date : 3-Oct-2015
+KC CardsPrinter App
+Date : 25-Oct-2016
 -------------------------------------------
 Instructions
 
